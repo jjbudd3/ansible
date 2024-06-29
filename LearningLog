@@ -1,0 +1,3 @@
+This will be a log of learning ansible
+6.29.24 -- ansible all -m apt -a update_cache=true --become --ask-become-pass
+	
