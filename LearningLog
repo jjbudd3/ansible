@@ -1,4 +1,5 @@
 This will be a log of learning ansible
 6.29.24 -- ansible all -m apt -a update_cache=true --become --ask-become-pass
 	learned that will need a become-pass file to hold passes I think
-	learned how to use ansible for a single box command	
+	learned how to use ansible for a single box command
+	Added playbooks to add and remove apache	
